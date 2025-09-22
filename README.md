@@ -50,15 +50,6 @@
 
 ## 🚀 Projetos em Destaque  
 
-### 🔹 ManyConvert  
-* **bot-ia** → Provas de conceito e desenvolvimento de **IA conversacional** para e-commerce, com foco em QA, testes automatizados e integração com a API oficial da Meta.  
-  [https://github.com/ManyConvert/bot-ia](https://github.com/ManyConvert/bot-ia)  
-
-* **mc-analytics** → Projeto voltado para **análise de métricas e dados de interação** em chatbots, auxiliando na mensuração de qualidade, desempenho e consistência das respostas.  
-  [https://github.com/ManyConvert/mc-analytics](https://github.com/ManyConvert/mc-analytics)  
-
----
-
 ### 🔹 Projetos Pessoais e Acadêmicos  
 * **Cypress Masterclass – Swag Labs** → Suite completa de testes E2E utilizando **Cypress**, estruturada com padrões Page Objects, uso de fixtures e integração em CI.  
   [https://github.com/Nicolasbarth221/Cypress-Masterclass-SwagLabs](https://github.com/Nicolasbarth221/Cypress-Masterclass-SwagLabs)  
