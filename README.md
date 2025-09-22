@@ -3,17 +3,18 @@
 **QA Engineer** · **IA conversacional para e‑commerce** · **Cypress/JavaScript** · aprendendo **Python**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nicolasbarth/)
-[![E‑mail](https://img.shields.io/badge/Email-121212?logo=gmail\&logoColor=white)](mailto:nicolasbarth221@gmail.com)
+[![Instagram](https://img.shields.io/badge/Email-121212?logo=gmail\&logoColor=white)](mailto:nicolasbarthsouza84@gmail.com)
 
 ---
 
-## 💡 Sobre mim
+## 💡Sobre mim
 
-* QA Engineer na **ManyConvert**, garantindo qualidade em produtos de **IA conversacional** para e‑commerce.
-* Experiência com **testes funcionais, exploratórios e de regressão**; automação com **Cypress + JS**, **Postman** e **CI**.
-* Métricas de **precisão/consistência semântica**, cobertura e **UX** para avalição de **LLMs/chatbots**.
-* Crio *Prompt Kits*, bases de conhecimento e suítes de testes com foco em **confiabilidade e escala**.
-* Atualmente estudando **Python** para testes, automações e APIs.
+*QA Engineer na ManyConvert, atuando na validação de soluções de IA conversacional para e-commerce com foco em qualidade, escalabilidade e experiência do usuário.
+*Sólida experiência em testes funcionais, exploratórios e de regressão, além de automação com Cypress + JavaScript, Postman e pipelines de CI/CD.
+*Forte atuação na análise de métricas críticas de precisão, consistência semântica, cobertura e usabilidade para avaliação de LLMs e chatbots.
+*Desenvolvimento de Prompt Kits, bases de conhecimento e suítes de testes completas, garantindo produtos digitais mais confiáveis e eficientes.
+*Experiência em metodologias ágeis (Scrum/Kanban), colaborando diretamente com times de produto, engenharia e ciência de dados.
+*Atualmente ampliando atuação com Python, voltado para automações avançadas, testes de APIs e integrações.
 
 ---
 
@@ -40,51 +41,44 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux\&logoColor=white)
 
-> *PS:* Adicione/retire badges conforme for evoluindo.
+---
+
+## 🚀 Projetos em Destaque  
+
+### 🔹 ManyConvert  
+* **bot-ia** → Provas de conceito e desenvolvimento de **IA conversacional** para e-commerce, com foco em QA, testes automatizados e integração com a API oficial da Meta.  
+  [https://github.com/ManyConvert/bot-ia](https://github.com/ManyConvert/bot-ia)  
+
+* **mc-analytics** → Projeto voltado para **análise de métricas e dados de interação** em chatbots, auxiliando na mensuração de qualidade, desempenho e consistência das respostas.  
+  [https://github.com/ManyConvert/mc-analytics](https://github.com/ManyConvert/mc-analytics)  
 
 ---
 
-## 🚀 Projetos em Destaque
+### 🔹 Projetos Pessoais e Acadêmicos  
+* **Cypress Masterclass – Swag Labs** → Suite completa de testes E2E utilizando **Cypress**, estruturada com padrões Page Objects, uso de fixtures e integração em CI.  
+  [https://github.com/Nicolasbarth221/Cypress-Masterclass-SwagLabs](https://github.com/Nicolasbarth221/Cypress-Masterclass-SwagLabs)  
 
-* **Cypress Masterclass – Swag Labs** → E2E completo, padrões page objects, fixtures e CI.
-  [https://github.com/Nicolasbarth221/Cypress-Masterclass-SwagLabs](https://github.com/Nicolasbarth221/Cypress-Masterclass-SwagLabs)
-* **Advanced‑Cypress** → boas práticas, comandos customizados e mocks.
-  [https://github.com/Nicolasbarth221/Advanced-Cypress](https://github.com/Nicolasbarth221/Advanced-Cypress)
-* **Simulador de Cypress** → app de treino para testes E2E.
-  [https://github.com/Nicolasbarth221/Simulador-de-Cypress](https://github.com/Nicolasbarth221/Simulador-de-Cypress)
-* **Projeto HOWIV** → Flask + SQLite, CRUD e testes.
-  [https://github.com/Nicolasbarth221/Projeto-HOWIV](https://github.com/Nicolasbarth221/Projeto-HOWIV)
-* **Meu‑Portfolio** → site pessoal com projetos e contato.
-  [https://github.com/Nicolasbarth221/Meu-Portfolio](https://github.com/Nicolasbarth221/Meu-Portfolio)
-* **bot‑ia (ManyConvert)** → POCs de IA conversacional/QA. *(Se público)*
-  [https://github.com/ManyConvert/bot-ia](https://github.com/ManyConvert/bot-ia)
+* **Advanced-Cypress** → Projeto avançado com foco em **boas práticas**, comandos customizados e simulação de cenários complexos via mocks.  
+  [https://github.com/Nicolasbarth221/Advanced-Cypress](https://github.com/Nicolasbarth221/Advanced-Cypress)  
 
-> Ajuste os links/nome dos repositórios conforme o que for público e mais relevante.
+* **Simulador de Cypress** → Aplicação de estudo criada para **treinar testes E2E** de forma prática e iterativa.  
+  [https://github.com/Nicolasbarth221/Simulador-de-Cypress](https://github.com/Nicolasbarth221/Simulador-de-Cypress)  
 
----
+* **Projeto HOWIV** → Sistema acadêmico em **Flask + SQLite**, com CRUD, persistência de dados e testes automatizados.  
+  [https://github.com/Nicolasbarth221/Projeto-HOWIV](https://github.com/Nicolasbarth221/Projeto-HOWIV)  
 
-## 📈 Estatísticas
+* **Meu-Portfolio** → Site pessoal desenvolvido em **HTML, CSS e JS**, apresentando projetos, contato e portfólio audiovisual.  
+  [https://github.com/Nicolasbarth221/Meu-Portfolio](https://github.com/Nicolasbarth221/Meu-Portfolio)  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Nicolasbarth221\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasbarth221\&layout=compact\&theme=tokyonight\&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nicolasbarth221\&theme=tokyonight\&hide_border=true)
-
-> Caso alguma imagem não carregue, é normal: esses serviços usam APIs públicas sujeitas a *rate limit*.
+* **Nicolasbarth221 (Perfil)** → Repositório especial que contém o **README de apresentação** exibido no meu perfil do GitHub.  
+  [https://github.com/Nicolasbarth221/Nicolasbarth221](https://github.com/Nicolasbarth221/Nicolasbarth221)  
 
 ---
 
 ## 📫 Vamos conversar
 
-* ✉️ **E‑mail:** [nicolasbarth221@gmail.com](mailto:nicolasbarth221@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/nicolasbarth](https://www.linkedin.com/in/nicolasbarth/)
-* 🐶 Às vezes posto vídeos com meu golden **Mike**.
+* ✉️ **E‑mail:** [nicolasbarth221@gmail.com](mailto:nicolasbarthsouza84@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/nicolasbarth](https://www.linkedin.com/in/-nicolas-barth/)
 
 ---
 
-### Dicas rápidas
-
-* Mantenha os **READMEs dos projetos** com: objetivo, *stack*, como rodar, testes e *roadmap*.
-* Use **Topics** nos repositórios (ex.: `cypress`, `qa`, `e2e`, `llm`, `flask`, `sqlite`, `portfolio`).
-* Configure a **imagem social** de cada repo (Settings → Social preview) para ficar bonito nos compartilhamentos.
-* Fixe **6 repositórios** no perfil (Customize your pins) priorizando qualidade, variedade e recência.
-* Crie *issues* no próprio perfil para acompanhar ideias/tarefas públicas.
