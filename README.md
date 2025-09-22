@@ -2,8 +2,8 @@
 
 **QA Engineer** · **IA conversacional para e‑commerce** · **Cypress/JavaScript**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/nicolasbarth/])
-[![Instagram](https://img.shields.io/badge/Email-121212?logo=gmail\&logoColor=white)](mailto:nicolasbarthsouza84@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/-nicolas-barth/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/eunicolasbarth/)
 
 ---
 
@@ -77,4 +77,3 @@
 * 💼 **LinkedIn:** [linkedin.com/in/nicolasbarth](https://www.linkedin.com/in/-nicolas-barth/)
 
 ---
-
