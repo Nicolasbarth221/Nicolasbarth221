@@ -1,4 +1,4 @@
-# Olá! Eu sou o **Nicolas Barth** 👋
+# Opaa! Eu sou o **Nicolas Barth** 👋
 
 **QA Engineer** · **IA conversacional para e‑commerce** · **Cypress/JavaScript**
 
