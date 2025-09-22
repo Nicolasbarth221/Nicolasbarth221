@@ -1,8 +1,8 @@
 # Olá! Eu sou o **Nicolas Barth** 👋
 
-**QA Engineer** · **IA conversacional para e‑commerce** · **Cypress/JavaScript** · aprendendo **Python**
+**QA Engineer** · **IA conversacional para e‑commerce** · **Cypress/JavaScript**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nicolasbarth/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/nicolasbarth/])
 [![Instagram](https://img.shields.io/badge/Email-121212?logo=gmail\&logoColor=white)](mailto:nicolasbarthsouza84@gmail.com)
 
 ---
@@ -73,7 +73,7 @@
 
 ## 📫 Vamos conversar
 
-* ✉️ **E‑mail:** [nicolasbarth221@gmail.com](mailto:nicolasbarthsouza84@gmail.com)
+* ✉️ **E‑mail:** [nicolasbarthsouza84@gmail.com](mailto:nicolasbarthsouza84@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/nicolasbarth](https://www.linkedin.com/in/-nicolas-barth/)
 
 ---
