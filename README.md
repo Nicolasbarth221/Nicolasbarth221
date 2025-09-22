@@ -10,10 +10,15 @@
 ## 💡Sobre mim
 
 *QA Engineer na ManyConvert, atuando na validação de soluções de IA conversacional para e-commerce com foco em qualidade, escalabilidade e experiência do usuário.
+
 *Sólida experiência em testes funcionais, exploratórios e de regressão, além de automação com Cypress + JavaScript, Postman e pipelines de CI/CD.
+
 *Forte atuação na análise de métricas críticas de precisão, consistência semântica, cobertura e usabilidade para avaliação de LLMs e chatbots.
+
 *Desenvolvimento de Prompt Kits, bases de conhecimento e suítes de testes completas, garantindo produtos digitais mais confiáveis e eficientes.
+
 *Experiência em metodologias ágeis (Scrum/Kanban), colaborando diretamente com times de produto, engenharia e ciência de dados.
+
 *Atualmente ampliando atuação com Python, voltado para automações avançadas, testes de APIs e integrações.
 
 ---
